@@ -1,10 +1,10 @@
- <h1 align="center">Hi 👋, I'm Asif Taj</h1>
+ <h1 align="center">Hi 👋, I'm Muhammad AHmad Riaz</h1>
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Flutter 
-- 📫 How to reach me: axiftaj@gmail.com
-- 😄 My website: https://thetechbrothers.net
+- 📫 How to reach me: mirzamahmad7690@gail.com
+- 😄 My Linkedln: https://www.linkedin.com/in/muhammad-ahmad-riaz-534a022bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - ⚡ Fun fact: I'm comming to teen
   
 ### Connect with me:
